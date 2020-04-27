@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RepeatingBG.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Obstacle.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SpawnPoint.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RepeatingBG.cs" Line="19" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Runner" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="RepeatingBG.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="97c134a7-c763-4ddd-a31f-e30da9c708f0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
